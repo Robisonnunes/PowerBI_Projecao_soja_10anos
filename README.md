@@ -1,6 +1,4 @@
 
-<img src="https://www.imagemhost.com.br/images/2020/09/23/power-bi-1.jpg" alt="power-bi-1.jpg" border="0" height="60" width="210"/>
-
 <H3>Desenvolvi a visualização em Power Bi abaixo com dados das projeções do Ministério da Agricultura, Pecuária e Abastecimento para os próximos 10 anos, 
 especificamente sobre o Grão de Soja.</H3>
 
